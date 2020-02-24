@@ -1,0 +1,4 @@
+komponen react ada dua, class component dan function component
+lifecycle method dan react
+jika di DOM harus panggil function printdata untuk menampilkan perubahan data, maka di react tidak perlu namun akan di tampung di state
+tiap komponen memiliki props/properti
